@@ -1,16 +1,17 @@
-## Hi there 👋
+## Welcome 👋
 
-<!--
-**skwiecinski/skwiecinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Simon I'm a Computer Science student at the **Silesian University of Technology (AEiI)**, passionate about high-performance computing, modern C++, and the "under the hood" mechanics of Artificial Intelligence.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
+* **Languages:** Modern C++ (C++20), Python, Java
+* **Tools:** Git, CMake, Visual Studio, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+* **University:** Silesian University of Technology (Politechnika Śląska)
+* **Faculty:** Automatic Control, Electronics and Computer Science (AEI)
+* **Status:** 6th Semester Informatics Student (Undergraduate)
+* **Focus:** High-Performance Computing, Algorithms & Data Structures, SOLID $ Clean Code
+
+* ### 📫 Connect with me
+* GitHub: [@skwiecinski](https://github.com/skwiecinski)
+* Mail: szymon.kwie@gmail.com / sk312140@student.polsl.pl
