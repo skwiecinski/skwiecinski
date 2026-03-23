@@ -10,7 +10,7 @@ My name is Simon I'm a Computer Science student at the **Silesian University of 
 * **University:** Silesian University of Technology (Politechnika Śląska)
 * **Faculty:** Automatic Control, Electronics and Computer Science (AEI)
 * **Status:** 6th Semester Informatics Student (Undergraduate)
-* **Focus:** High-Performance Computing, Algorithms & Data Structures, SOLID $ Clean Code
+* **Focus:** High-Performance Computing, Algorithms & Data Structures, SOLID & Clean Code
 
 ### 📫 Connect with me
 * GitHub: [@skwiecinski](https://github.com/skwiecinski)
