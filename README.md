@@ -12,6 +12,6 @@ My name is Simon I'm a Computer Science student at the **Silesian University of 
 * **Status:** 6th Semester Informatics Student (Undergraduate)
 * **Focus:** High-Performance Computing, Algorithms & Data Structures, SOLID $ Clean Code
 
-* ### 📫 Connect with me
+### 📫 Connect with me
 * GitHub: [@skwiecinski](https://github.com/skwiecinski)
 * Mail: szymon.kwie@gmail.com / sk312140@student.polsl.pl
