@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-My name is Simon. I'm a Computer Science student at the **Silesian University of Technology (AEI)**, passionate about high-performance computing, modern C++, and the "under the hood" mechanics of Artificial Intelligence.
+My name is Simon. I'm a Computer Science student at the **Silesian University of Technology (Automatic Control, Electronics and Computer Science)**, passionate about high-performance computing, modern C++, and the "under the hood" mechanics of Artificial Intelligence.
 
 ### 🛠 Tech Stack & Tools
 * **Languages:** Modern C++ (C++17/C++20), Basics of: Python, Java, Kotlin, Swift, C#
