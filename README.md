@@ -12,7 +12,7 @@ My name is Simon. I'm a Computer Science student at the **Silesian University of
 
 #### 🚀 Ongoing
 * **Personal**
-  - `E2EE P2P Chat Application` - Building a secure, multi-threaded desktop messenger from scratch using C++20, Boost.Asio, and modern cryptography standards, built with built with strict adherence to SOLID principles and the MVVM pattern.
+  - `E2EE P2P Chat Application` - Building a secure, multi-threaded desktop messenger from scratch using C++20, Boost.Asio, and modern cryptography standards, built with strict adherence to SOLID principles and the MVVM pattern.
 * **University**
   - `Health-Monitoring Smartwatch` - Developing an energy-efficient embedded wearable using the Seeed Studio XIAO nRF52840. Integrated an IMU for automated fall detection, offline speech recognition, and BLE-based smartphone communication.
 
