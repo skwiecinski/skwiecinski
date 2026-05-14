@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,50:0b1220,100:111827&text=Szymon%20Kwieci%C5%84ski&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=C%2B%2B%20%7C%20Embedded%20Systems%20%7C%20Low-Level%20Programming&descColor=7dd3fc&descSize=18&descAlignY=58"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=22C55E&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%5Broot%40Szymon-PC+~%5D%23+g%2B%2B+-O3+-std%3Dc%2B%2B23+main.cpp;+Initializing+Tech+Stack...;+Loading:+Embedded+Systems,+HPC,+AI, +C++;+Status:+Compiling+next+innovation..." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=22C55E&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%5Broot%40Szymon-PC+%7E%5D%23+g%2B%2B+-O3+-std%3Dc%2B%2B23+main.cpp;Initializing+Tech+Stack...;Loading%3A+Embedded+Systems%2C+HPC%2C+AI%2C+C%2B%2B;Status%3A+Compiling+next+innovation..." alt="Typing Animation" />
 </p>
 
 <p align="center">
