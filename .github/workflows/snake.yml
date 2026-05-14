@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *" # Uruchamia się codziennie o północy
-  workflow_dispatch: # Pozwala odpalić skrypt ręcznie
+  workflow_dispatch: 
 
 jobs:
   build:
