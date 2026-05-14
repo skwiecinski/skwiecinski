@@ -197,22 +197,6 @@ public:
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/skwiecinski/skwiecinski/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
----
-
-# 🌌 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/skwiecinski/skwiecinski/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</p>
-
----
-
 # 📬 Contact
 
 <p align="center">
