@@ -21,7 +21,7 @@
 ```cpp
 class SzymonKwiecinski {
 public:
-    std::string role        = "C++ & Embedded Systems Developer";
+    std::string role        = "Computer Science Student";
     std::string university  = "Silesian University of Technology";
     std::string focus       = "Performance, Architecture & Low-Level Systems";
 
