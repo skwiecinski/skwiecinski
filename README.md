@@ -54,29 +54,6 @@ public:
 
 ---
 
-# 📊 Performance Dashboard
-
-<table>
-<tr>
-<td width="50%">
-
-### 📈 GitHub Statistics
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skwiecinski&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
-
-</td>
-<td width="50%">
-
-### 📉 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skwiecinski&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
-
 # 🧩 Current Focus
 
 <table width="100%" align="center">
