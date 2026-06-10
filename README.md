@@ -17,23 +17,13 @@
 ---
 
 # 🧠 About Me
-
-```cpp
-class SzymonKwiecinski {
-public:
-    std::string role        = "Computer Science Student";
-    std::string university  = "Silesian University of Technology";
-    std::string focus       = "Performance, Architecture & Low-Level Systems";
-
-    std::vector<std::string> interests = {
-        "Modern C++20/23",
-        "Embedded Systems",
-        "High Performance Computing",
-        "Multithreading",
-        "AI & Neural Networks"
-    };
-};
-```
+Hi! I'm **Szymon Kwieciński**, a Computer Science student at the **Silesian University of Technology**. 
+I've always been the kind of developer who likes to know what's happening under the hood. Instead of just writing code that "works", I really care about performance and good architecture. That's why I spend most of my time playing around with C++, low-level systems, and squeezing the most out of hardware.
+**My main areas of interest include:**
+* **Modern C++ (C++20/23)** – writing clean, fast, and modern code
+* **Embedded Systems** – low-level programming and hardware interactions
+* **High Performance Computing & Multithreading** – optimizing for speed and efficiency
+* **AI & Neural Networks** – exploring the intersection of AI and core logic
 
 ---
 
