@@ -128,6 +128,22 @@ public:
 </ul>
 </td>
 </tr>
+<!-- WIERSZ 4 -->
+<tr>
+<td width="50%" valign="top" align="left">
+</td>
+<td width="50%" valign="top" align="left">
+<a href="https://github.com/skwiecinski/Car-Dealership-System"><b>🚗 Car Dealership Management System</b></a><br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/WPF-UI-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square" />
+<ul>
+<li>Full-stack MVVM architecture</li>
+<li>Complex database schemas & Unit of Work</li>
+<li>Dynamic PDF reports & Analytics</li>
+</ul>
+</td>
+</tr>
 </table>
 
 ---
@@ -147,30 +163,19 @@ public:
 ---
 
 # 🎓 Education
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b1220,100:111827&height=60&section=header&text=EDUCATION%20NODE&fontColor=7dd3fc&fontSize=22" />
-
-
-
-<h3>🏫 Silesian University of Technology</h3>
-
-<img src="https://img.shields.io/badge/STATUS-Active_Student-22C55E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NODE-Informatics-0F172A?style=for-the-badge" />
-
-
-
-<h4>⚙️ SYSTEM MODULES LOADED</h4>
-
-<code>🧠 Modern C++ (C++20 / C++23)</code>
-<code>⚡ Embedded Systems & Low-Level</code>
-<code>🚀 High Performance Computing</code><br/>
-<br/>
-<code>📊 Algorithms & Data Structures</code>
-<code>🏗️ Software Architecture (SOLID)</code>
-
-</div>
+<h3 align="center">Silesian University of Technology</h3>
+<p align="center"><b>BEng in Computer Science (Informatics)</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Student-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Degree-Bachelor_of_Engineering-00599C?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Modern_C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23_.NET-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-0F766E?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Architecture-111827?style=for-the-badge" />
+</p>
 
 ---
 
