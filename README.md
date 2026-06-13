@@ -47,7 +47,7 @@ I've always been the kind of developer who likes to know what's happening under 
 # 🧩 Project Portfolio
 
 <details open>
-<summary><b>AI & Machine Learning</b> (Click to hide)</summary>
+<summary><b>AI & Machine Learning</b> (Click to expand)</summary>
 <br>
 <table width="100%" align="center">
 <tr>
