@@ -30,7 +30,7 @@ I've always been the kind of developer who likes to know what's happening under 
 # ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,kotlin,linux,cmake,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,cs,linux,cmake,git,github,vscode" />
 </p>
 
 <p align="center">
@@ -44,41 +44,100 @@ I've always been the kind of developer who likes to know what's happening under 
 
 ---
 
-# 🧩 Current Focus
+# 🧩 Project Portfolio
 
+<details open>
+<summary><b>AI & Machine Learning</b> (Click to hide)</summary>
+<br>
 <table width="100%" align="center">
 <tr>
-<th width="50%" align="center"><h3>🚀 Ongoing Projects</h3></th>
-<th width="50%" align="center"><h3>✅ Completed Projects</h3></th>
-</tr>
-<!-- WIERSZ 1 -->
-<tr>
 <td width="50%" valign="top" align="left">
-<a href="https://github.com/skwiecinski"><b>🔐 E2EE P2P Chat Application</b></a><br/>
-<img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Boost.Asio-00599C?style=flat-square" />
-<img src="https://img.shields.io/badge/Security-red?style=flat-square" />
-<ul>
-<li>Asynchronous network architecture</li>
-<li>End-to-end encryption (P2P)</li>
-<li>Multi-threaded event handling</li>
-</ul>
-</td>
-<td width="50%" valign="top" align="left">
-<a href="https://github.com/skwiecinski/neural-network"><b>🧠 Neural Network Engine</b></a><br/>
+<a href="https://github.com/skwiecinski/Neural-Network"><b>Neural Network Engine</b></a><br/>
 <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/AI--MLP-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia" />
 <ul>
 <li>Custom MLP implementation from scratch</li>
-<li>Matrix computation optimization</li>
-<li>Multi-threading support</li>
+<li>NVIDIA CUDA acceleration for MNIST dataset</li>
+<li>High-performance matrix computation</li>
+</ul>
+</td>
+<td width="50%" valign="top" align="left">
+<a href="https://github.com/skwiecinski/EEG-Visual-Decoder"><b>EEG Visual Decoder</b></a><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Learning-red?style=flat-square" />
+<ul>
+<li>Deep Learning pipeline using 1D CNNs</li>
+<li>Decodes visual stimuli from raw EEG brainwaves</li>
+<li>Classification of neurological signals</li>
 </ul>
 </td>
 </tr>
-<!-- WIERSZ 2 -->
 <tr>
 <td width="50%" valign="top" align="left">
-<a href="https://github.com/skwiecinski"><b>⌚ Health-Monitoring Smartwatch</b></a><br/>
+<a href="https://github.com/skwiecinski/IBM-Racing-League"><b>IBM Racing League Driver</b></a><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Autonomous_AI-gray?style=flat-square" />
+<ul>
+<li>Autonomous driver for the TORCS simulator</li>
+<li>Developed for the IBM AI Racing League 2026</li>
+<li>Sensor-based algorithmic steering</li>
+</ul>
+</td>
+<td width="50%" valign="top" align="left">
+</td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary><b>C++ & Low-Level Programming</b> (Click to expand)</summary>
+<br>
+<table width="100%" align="center">
+<tr>
+<td width="50%" valign="top" align="left">
+<a href="https://github.com/skwiecinski/Laplace-Image-Filter"><b>Laplace Image Filter</b></a><br/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/x64_Assembly-6E4C13?style=flat-square" />
+<ul>
+<li>Image edge detection using a Laplace filter</li>
+<li>Performance comparison between C++ and Assembly</li>
+<li>C++/CLI Windows Forms GUI</li>
+</ul>
+</td>
+<td width="50%" valign="top" align="left">
+<a href="https://github.com/skwiecinski/Data-Structures-and-Algorithms"><b>Data Structures & Algorithms</b></a><br/>
+<img src="https://img.shields.io/badge/Templates-STL-gray?style=flat-square" />
+<ul>
+<li>STL-inspired containers</li>
+<li>Generic templates & concepts</li>
+<li>High-performance algorithms</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="left">
+<a href="https://github.com/skwiecinski/Huffman-Coding"><b>Lossless Compression Tool</b></a><br/>
+<img src="https://img.shields.io/badge/Algorithms-Huffman-orange?style=flat-square" />
+<ul>
+<li>Command-line tool for lossless text compression</li>
+<li>Huffman coding algorithm implementation</li>
+<li>Bit-level optimization</li>
+</ul>
+</td>
+<td width="50%" valign="top" align="left">
+</td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary><b>Embedded Systems & IoT</b> (Click to expand)</summary>
+<br>
+<table width="100%" align="center">
+<tr>
+<td width="50%" valign="top" align="left">
+<a href="https://github.com/skwiecinski"><b>Health-Monitoring Smartwatch (In-Progess)</b></a><br/>
 <img src="https://img.shields.io/badge/nRF52840-0F766E?style=flat-square" />
 <img src="https://img.shields.io/badge/BLE-blue?style=flat-square&logo=bluetooth" />
 <ul>
@@ -88,53 +147,61 @@ I've always been the kind of developer who likes to know what's happening under 
 </ul>
 </td>
 <td width="50%" valign="top" align="left">
-<a href="https://github.com/skwiecinski/huffman-coding"><b>📦 Lossless Compression Tool</b></a><br/>
-<img src="https://img.shields.io/badge/Algorithms-Huffman-orange?style=flat-square" />
+<a href="https://github.com/skwiecinski/IoT-Medicine-Dispenser"><b>IoT Medicine Dispenser</b></a><br/>
+<img src="https://img.shields.io/badge/ESP32-C%2B%2B-green?style=flat-square&logo=espressif" />
+<img src="https://img.shields.io/badge/IoT-gray?style=flat-square" />
 <ul>
-<li>Huffman coding implementation</li>
-<li>Bit-level optimization</li>
-<li>High compression performance</li>
+<li>Smart hardware-software automation</li>
+<li>Web configuration panel & alarms</li>
+<li>SMS/Email notifications for caregivers</li>
 </ul>
 </td>
 </tr>
-<!-- WIERSZ 3 -->
 <tr>
 <td width="50%" valign="top" align="left">
-<a href="https://github.com/skwiecinski/data-structures-and-algorithms"><b>⚡ Data Structures Library</b></a><br/>
-<img src="https://img.shields.io/badge/Templates-STL-gray?style=flat-square" />
+<a href="https://github.com/skwiecinski/RPI-Wireless-Auditor"><b>RPi Wireless Auditor</b></a><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-black?style=flat-square" />
 <ul>
-<li>STL-inspired containers</li>
-<li>Generic templates & concepts</li>
-<li>High-performance algorithms</li>
+<li>Wi-Fi security auditing on Raspberry Pi</li>
+<li>Interactive scanning & beacon flooding</li>
+<li>Targeted deauthentication tool using Scapy</li>
 </ul>
 </td>
 <td width="50%" valign="top" align="left">
-<a href="https://github.com/skwiecinski/IoT-Medicine-Dispenser-"><b>💊 IoT Medicine Dispenser</b></a><br/>
-<img src="https://img.shields.io/badge/ESP32-Automation-green?style=flat-square&logo=espressif" />
-<ul>
-<li>Hardware-software automation</li>
-<li>Smart scheduling system</li>
-<li>Sensor & UI integration</li>
-</ul>
 </td>
 </tr>
-<!-- WIERSZ 4 -->
+</table>
+</details>
+
+<details>
+<summary><b>Software Engineering & Apps</b> (Click to expand)</summary>
+<br>
+<table width="100%" align="center">
 <tr>
 <td width="50%" valign="top" align="left">
-</td>
-<td width="50%" valign="top" align="left">
-<a href="https://github.com/skwiecinski/Car-Dealership-System"><b>🚗 Car Dealership Management System</b></a><br/>
+<a href="https://github.com/skwiecinski/Car-Dealership-System"><b>Car Dealership System</b></a><br/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/WPF-UI-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square" />
 <ul>
 <li>Full-stack MVVM architecture</li>
 <li>Complex database schemas & Unit of Work</li>
 <li>Dynamic PDF reports & Analytics</li>
 </ul>
 </td>
+<td width="50%" valign="top" align="left">
+<a href="https://github.com/skwiecinski/Vehicle-Catalog-Web-System"><b>Vehicle Catalog Web System</b></a><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Jakarta%20EE-gray?style=flat-square" />
+<ul>
+<li>Web application using MVC architecture</li>
+<li>Manage relational database of vehicles</li>
+<li>Jakarta EE backend implementation</li>
+</ul>
+</td>
 </tr>
 </table>
+</details>
 
 ---
 
@@ -179,4 +246,3 @@ I've always been the kind of developer who likes to know what's happening under 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
